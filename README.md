@@ -11,4 +11,4 @@
 
 ***italic and bold font***
 
-~~strike ~~
+~~strike~~
